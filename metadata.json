@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Arena: Ranked Champions",
+  "description": "Fast-paced 2D pixel arena combat with distinct character classes, 1v1, 2v2, and 3v3 team modes, intelligent bot AI, and competitive rank progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
